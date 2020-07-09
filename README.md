@@ -1,7 +1,8 @@
 # Solidworks_Assignment
 Solidworks assignment for semester IV. 
 
-## Assignment 1 - for sldrt files refer (https://github.com/Sachindrck/Solidworks_Assignment/tree/master/Files)
+## Assignment 1 
+###for sldrt files refer (https://github.com/Sachindrck/Solidworks_Assignment/tree/master/Files)
 
 #### 1
 
