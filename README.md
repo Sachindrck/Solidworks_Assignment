@@ -1,5 +1,5 @@
 # Solidworks_Assignment
-Solidworks assignment for semester IV.
+Solidworks assignment for semester IV. 
 
 ## Assignment 1
 
