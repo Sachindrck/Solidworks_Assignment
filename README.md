@@ -1,5 +1,5 @@
 # Solidworks_Assignment
-Solidworks assignment for semester IV. 
+Solidworks assignment for semester IV given by **Durai Prabhakaran sir** for the course of Machine drawing.
 
 ## Assignment 1 
 #### for SLDRT files refer (https://github.com/Sachindrck/Solidworks_Assignment/tree/master/Files)
